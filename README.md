@@ -90,11 +90,3 @@ Authored several books on graphic design software:
 I am actively seeking challenging opportunities in **Tech Leadership, Data Analysis, Full-Stack Development, AI Solutions, or Localization Management** where I can leverage my diverse skillset to contribute to innovative projects within the tech, media, or AI/data sectors.
 
 ---
-
-## 📫 Get In Touch
-
-I'm excited about opportunities where I can contribute to data-driven decision-making and continue to grow as a Data Analyst.
-
-*   **LinkedIn:** [linkedin.com/in/damijankante](https://www.linkedin.com/in/damijankante/)
-*   **Email:** `[damijan.kante@egmail.com]`
----
