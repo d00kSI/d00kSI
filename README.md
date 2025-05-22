@@ -61,6 +61,7 @@ Here you'll find projects where I apply my data analytics skills. I'm currently 
     *   **Tools:** Excel (timeline, slicers, pivot tables, charts) 
     *   **Link:** `[GitHub Repository](link-to-your-project-repo-1)` | `[Live Dashboard (if applicable)](link-to-tableau-public-etc)`
 
+---
 
 ## 📚 Publications
 
