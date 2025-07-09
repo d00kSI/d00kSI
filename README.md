@@ -59,7 +59,7 @@ My journey began with a strong foundation in print media and graphic design, evo
 
 Here you'll find projects where I apply my data analytics skills. I'm currently working on building out this section!
 
-1.  **Excel Sales Data Analysis & Visualization)**
+1.  **Excel Sales Data Analysis & Visualization**
     *   **Description:** An introductory project into advanced Excel data analysis of coffee sales data with a dashboard. The dashboard includes a timeline, 3 slicers (Roast type name, Size, and Loyalty Card presence), and 3 charts (Total Sales Over Time, Sales by Country, Top 5 Customers).
     *   **Tools:** Excel (timeline, slicers, pivot tables, charts) 
     *   **Link:** `[GitHub Repository](link-to-your-project-repo-1)` | `[Live Dashboard (if applicable)](link-to-tableau-public-etc)`
