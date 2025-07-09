@@ -1,6 +1,6 @@
 # Damijan Kante
 
-**Graphic & UI Designer | Full-Stack Developer | Data Analyst | AI Enthusiast | Localization Expert | Technical Writer**
+**Data Analyst | Graphic & UI Designer | Full-Stack Developer |  AI Enthusiast | Localization Expert | Technical Writer**
 
 <a href="https://www.linkedin.com/in/damijankante/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-DamijanKante-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile">
@@ -88,6 +88,6 @@ Authored several books on graphic design software:
 
 ## 🌱 Seeking Opportunities
 
-I am actively seeking challenging opportunities in **Tech Leadership, Data Analysis, Full-Stack Development, AI Solutions, or Localization Management** where I can leverage my diverse skillset to contribute to innovative projects within the tech, media, or AI/data sectors.
+I am actively seeking challenging opportunities in **Data Analysis, Full-Stack Development, Tech Leadership, AI Solutions, or Localization Management** where I can leverage my diverse skillset to contribute to innovative projects within the tech, media, or AI/data sectors.
 
 ---
