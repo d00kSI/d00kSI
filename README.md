@@ -31,7 +31,7 @@ My journey began with a strong foundation in print media and graphic design, evo
 
 ## 🛠️ Technical Skills
 
-*   **Data Analysis & Visualization:** Microsoft Power BI, Advanced Excel, SQL, Python (Pandas, NumPy - *learning*), Google Sheets (Advanced Formulas)
+*   **Data Analysis & Visualization:** Excel, SQL, Microsoft Power BI, Tableau, PowerPoint, Python (Pandas, NumPy, Matplotlib, SciPy, Seaborn), Google Sheets (Advanced Formulas)
 *   **Full-Stack Development:** HTML5, CSS3, JavaScript (ES6+), React, Node.js, Google Apps Script
 *   **AI & LLMs:** Google Workspace AI, Gemini Advanced, Notebook LM, ChatGPT, Claude, Perplexity, Grok
 *   **Graphic & UI Design:** Adobe Creative Suite (Photoshop, Illustrator, InDesign, Premiere Pro, XD, After Effects, Acrobat Pro, Dreamweaver), Figma, Canva, CorelDRAW, QuarkXPress
@@ -44,12 +44,15 @@ My journey began with a strong foundation in print media and graphic design, evo
 
 ## 🏆 Certifications
 
+*   Career Essentials in Data Analysis by Microsoft and LinkedIn
+*   Statistics Foundations Professional Certificate by Wolfram Research
+*   Master Microsoft Excel
 *   SQL Essential Training
 *   Power BI Essential Training (2022)
-*   Git/Github 101: Everything You Need To Get Started
-*   Figma 101 - Learning the Basics Quickly
-*   Graphic Design Masterclass: Learn Great Design
-
+*   Tableau 2024.1: Essential Training
+*   PowerPoint Essential Training (Microsoft 365)
+*   Introduction to Data Science
+  
 ---
 
 ## 📊 Portfolio Projects
